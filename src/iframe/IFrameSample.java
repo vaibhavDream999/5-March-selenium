@@ -8,7 +8,7 @@ public class IFrameSample {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
-		
+		// To find iframe
 		System.setProperty("webdriver.chrome.driver", "D:\\chromedriver.exe");
 		WebDriver driver= new ChromeDriver();
 		driver.get("https://vctcpune.com/selenium/practice.html");
